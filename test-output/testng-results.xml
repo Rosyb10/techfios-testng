@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22916" started-at="2020-01-07T11:59:54 EST" finished-at="2020-01-07T12:00:17 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22916" started-at="2020-01-07T11:59:54 EST" finished-at="2020-01-07T12:00:17 EST">
+      <class name="test.SelectTest">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:test.SelectTest@4b9e255]" name="startBrowser" is-config="true" duration-ms="11708" started-at="2020-01-07T11:59:54 EST" finished-at="2020-01-07T12:00:06 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="selectTest()[pri:0, instance:test.SelectTest@4b9e255]" name="selectTest" duration-ms="10315" started-at="2020-01-07T12:00:06 EST" finished-at="2020-01-07T12:00:16 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:test.SelectTest@4b9e255]" name="close" is-config="true" duration-ms="814" started-at="2020-01-07T12:00:16 EST" finished-at="2020-01-07T12:00:17 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- test.SelectTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
